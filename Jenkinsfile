@@ -13,7 +13,7 @@ pipeline {
                 // Checkout your source code from GitHub
                 script {
                     // Attempt to checkout the source code
-                    git url: "https://github.com/ArjunMnn/TWSThreeTierAppChallenge.git", branch: "main"
+                    git url: "https://github.com/siddana123/TWSThreeTierAppChallenge.git", branch: "main"
                 }
             }
         }
